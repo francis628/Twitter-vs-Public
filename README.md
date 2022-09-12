@@ -1,6 +1,7 @@
 # Twitter-vs-Public
 
 Slides: [Twitter vs Public Deck](https://github.com/francis628/Twitter-vs-Public/blob/main/Twitter%20vs%20Public%20Deck.pptx)
+[Tableau Dashboard](https://public.tableau.com/views/TwittervsPublic/Dashboard1?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link)
 
 This work seeks to provide evidence on the differences in sentiment (Positive/Negative) between perceptions shared on twitter versus perceptions held by the public at large. Specifically, this analysis will focus on compairing sentiment of famous brands. The public's sentiment is approximated by brand specific survey data collected by YouGov. Whereas for Twitter data, tweets responding to these brands will be scraped and classified as either positive or negative. 
 
